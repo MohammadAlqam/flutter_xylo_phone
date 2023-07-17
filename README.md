@@ -1,16 +1,12 @@
 # xylo_phone_flutter
 
-A new Flutter project.
+Xylo phone flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## App icon
+![InkedScreenshot_٢٠٢٣٠٧١٧-١٨٣٣٢٩_Samsung Experience Home](https://github.com/MohammadAlqam/flutter_xylo_phone/assets/88941388/a60f65e4-4c1f-4237-bbef-c758403bc031)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## App interface
+![Screenshot_٢٠٢٣٠٧١٧-١٨٣٣٣٧](https://github.com/MohammadAlqam/flutter_xylo_phone/assets/88941388/bd86e8a4-cbfb-4a58-ba84-a5b3e81ed2fc)
